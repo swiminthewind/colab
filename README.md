@@ -6,3 +6,5 @@
 231122-测试python版二阶谐波：https://code.earthengine.google.com/452211ae6289a902e7b814de833e226d
 
 231122-测试python版三阶谐波：https://code.earthengine.google.com/aa28e366421e9f5fdcc62f50a1ebafbb
+
+231122-测试python版四阶谐波：https://code.earthengine.google.com/087afa75087ca811888220ba833662ae
