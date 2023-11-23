@@ -12,3 +12,13 @@
 231122-测试python版五阶谐波：https://code.earthengine.google.com/3e373c88d1f2ec1900a3701adb1c5a29
 
 231122-用Sentinel-2检查arcgis pro天地图目视解译的样本点（加载样本点、渔网、边界、无云影像）：https://code.earthengine.google.com/2ba4caf8f44cfd25e9ba8f1157622c5d
+
+231123-测试python版六阶谐波：https://code.earthengine.google.com/4bd773a053195e01a8164be29da76092
+
+231123-测试python版七阶谐波：https://code.earthengine.google.com/1a8ddf9024c62ff65dc0d8cd29c08e67
+
+231123-测试python版八阶谐波：https://code.earthengine.google.com/55695ef97e2ea84968ba90af870d6498
+
+231123-测试python版九阶谐波：https://code.earthengine.google.com/ac362b74dc768fb4a84fd079f78a1c1f
+
+231123-测试python版十阶谐波：https://code.earthengine.google.com/31765bd28ecd9f184fe8b2fa60db5aba
