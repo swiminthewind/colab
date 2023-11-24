@@ -23,4 +23,4 @@
 
 231123-测试python版十阶谐波：https://code.earthengine.google.com/31765bd28ecd9f184fe8b2fa60db5aba
 
-231124-测试把时间从2023/5/1分开划分为训练集和验证集的可行性：https://code.earthengine.google.com/63f8ea1bda3bdf7579f848d1a123f880
+231124-测试把时间从2023/5/1分开划分为训练集和验证集的可行性：https://code.earthengine.google.com/20b3a1d5b91680e4786408fa75eb3345
