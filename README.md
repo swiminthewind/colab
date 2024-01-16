@@ -28,3 +28,5 @@
 231126-最后用的二阶谐波：https://code.earthengine.google.com/960e5c0ffab061a6e8b118f87b0d8101
 
 231207-获得农田用地和田块边界样本：https://code.earthengine.google.com/4b914278af17cd3021ba2ae3758e0f54
+
+24年1月，周期放宽到20-23年，3.10-9.10
